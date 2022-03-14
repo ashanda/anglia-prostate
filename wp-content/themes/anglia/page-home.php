@@ -39,7 +39,7 @@
 					</div>
 				</div><!--welcome text section end-->
 				
-				<div id="about-section" class="parallax-window" data-parallax="scroll" data-image-src="<?php the_field('right_title'); ?>">
+				<div id="about-section" class="parallax-window" data-parallax="scroll" data-image-src="<?php the_field('about_the_surgeon_section_background_image'); ?>">
 					<div class="top-deco"></div>
 					<div class="bottom-deco"></div>
 					

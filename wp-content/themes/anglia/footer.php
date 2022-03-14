@@ -33,9 +33,7 @@
 		<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/inc_files/scripts/ui.js"></script>
 		
 		<script src="<?php echo get_template_directory_uri(); ?>/inc_files/scripts/parallax.js-1.5.0/parallax.js"></script>
-		<script type="text/javascript">
-			$('.parallax-window').parallax({imageSrc: '<?php echo get_template_directory_uri(); ?>/inc_files/images/banner2.jpg'});
-		</script>
+	
 		<script>
 $(document).ready(function(){
   // Add smooth scrolling to all links
