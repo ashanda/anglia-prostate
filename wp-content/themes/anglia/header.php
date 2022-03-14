@@ -34,7 +34,7 @@
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
 		
-		<title>Anglia Prostate</title>
+		<title><?php bloginfo('name'); ?></title>
 		<?php wp_head(); ?>
 	</head>
 	
